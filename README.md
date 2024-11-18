@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Faith 👋
 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+![he_wants_that_cookie_so_bad_cover_](https://github.com/user-attachments/assets/0c130865-a444-4683-a1f9-c2a3c3fb5f47)
+
 
 <!--
 **fwinford/fwinford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
