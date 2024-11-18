@@ -2,8 +2,6 @@
 #### My name is Faith Winford and I'm a sophomore at NYU. I'm currently learning about Github, and hope to contribute to more projects soon. I have exome experience with frontend through HTML/CSS/Java, and eventually want to make my own portfolio.
 
 ![he_wants_that_cookie_so_bad_cover_](https://github.com/user-attachments/assets/0c130865-a444-4683-a1f9-c2a3c3fb5f47)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fwinford&count_private=true&show_icons=true&include_all_commits=true)
 <!--
 **fwinford/fwinford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
